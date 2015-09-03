@@ -1,0 +1,29 @@
+Create a GitHub Account to maintain files
+   - Code changes should be maintained in Git Repository
+   - Use Git to track changes
+   - Work in a distributed environment
+
+1. Initiate Project
+2. Gather Requirements  
+3. Define Milestones
+4. Check-in code changes in each Milestone
+5. Provide proper comments for changes
+6. Final Presentation with a 2 page documentation
+
+Timeline:
+(1,2 & 3) - 15 % of total time
+(4 & 5) - 80 % of total time
+6 - 5 % of total time
+
+Scores Based on:
+
+1. Planning
+2. Code Approach  and Code Standards 
+3. Logics and Ideas
+4. Collaborations -  Team work 
+5. Maintaining Codes with proper comments in GitHub
+6. Presentation
+
+
+
+   
